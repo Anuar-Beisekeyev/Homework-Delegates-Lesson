@@ -1,0 +1,13 @@
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\bin\Debug\netcoreapp3.1\HomeworkDelegatesLesson.exe
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\bin\Debug\netcoreapp3.1\HomeworkDelegatesLesson.deps.json
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\bin\Debug\netcoreapp3.1\HomeworkDelegatesLesson.runtimeconfig.json
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\bin\Debug\netcoreapp3.1\HomeworkDelegatesLesson.runtimeconfig.dev.json
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\bin\Debug\netcoreapp3.1\HomeworkDelegatesLesson.dll
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\bin\Debug\netcoreapp3.1\HomeworkDelegatesLesson.pdb
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\obj\Debug\netcoreapp3.1\HomeworkDelegatesLesson.csprojAssemblyReference.cache
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\obj\Debug\netcoreapp3.1\HomeworkDelegatesLesson.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\obj\Debug\netcoreapp3.1\HomeworkDelegatesLesson.AssemblyInfo.cs
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\obj\Debug\netcoreapp3.1\HomeworkDelegatesLesson.csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\obj\Debug\netcoreapp3.1\HomeworkDelegatesLesson.dll
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\obj\Debug\netcoreapp3.1\HomeworkDelegatesLesson.pdb
+G:\Проекты\HomeworkDelegatesLesson\HomeworkDelegatesLesson\obj\Debug\netcoreapp3.1\HomeworkDelegatesLesson.genruntimeconfig.cache
